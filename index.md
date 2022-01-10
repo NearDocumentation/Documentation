@@ -11,9 +11,29 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Introduction to blockchain 1
+# NEAR protocol features 2
+# Web application with NEAR protocol integration use cases:
+## Login with NEAR
+## Call smart contract
+## Process incoming transaction
+# Install
+## Install and configure NEAR ruby API library  
+## Install and configure NEAR js library (optional step)
+# Login with NEAR
+## Login with backend signature validation
+## Code samples
+## Implementation in demo app
+# Call smart contract
+## Issue function call from backend
+## Code samples
+## Implementation in demo app
+## Smart contract store management 
+# Process incoming transaction
+## Backend receives transaction hash from url param
+## Signature validation
+## Code samples
+## Implementation in demo app
 
 - Bulleted
 - List
